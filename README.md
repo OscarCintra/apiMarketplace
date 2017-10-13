@@ -5,7 +5,7 @@ Código Fonte relativo ao Projeto desenvolvido em Java 8 e Maven
 
 Foi utilizado o Framework Spring Boot
 
-Objetivo da Api:
+Objetivo da Api: 
 Receber uma lista de produtos no formato json, processá-la e devolver uma resposta, conforme opções de agrupamento, ordenação e filtro.
 
 Para rodar o projeto:
