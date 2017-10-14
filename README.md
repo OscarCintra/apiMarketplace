@@ -20,7 +20,7 @@ Definir user : 'root'   password : '' (vazio) ou alterar os dados no arquivo pro
 
 Executar o script do arquivo sql/produtos.sql
 
-Acessar a api atravé do EndPoint: localhost:8080/marketplace/api/produtos/
+Acessar a api atravé do EndPoint: localhost:8080/api/produtos/
 
 Parametros opcionais: 
 orderby filter
