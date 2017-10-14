@@ -22,8 +22,10 @@ Executar o script do arquivo sql/produtos.sql
 
 Acessar a api atravé do EndPoint: localhost:8080/api/produtos/
 
-Parametros opcionais: 
-orderby filter
+Parametros opcionais - Exemplo utilizando Postman
+Key               Value
+order_by          stock desc
+filter            brand:marca_a_ser_filtrada
 
 O arquivo .jar está disponível no link abaixo:
 
