@@ -25,4 +25,8 @@ Acessar a api atravé do EndPoint: localhost:8080/marketplace/api/produtos/
 Parametros opcionais: 
 orderby filter
 
+O arquivo .jar está disponível no link abaixo:
+
+https://drive.google.com/file/d/0B-0hs_HjmA9OYjU1azZydjVOVHc/view?usp=sharing
+
 Os Testes automatizados podem ser executados através do comando:  mvn test
