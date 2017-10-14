@@ -1,5 +1,4 @@
 /*
-Navicat MySQL Data Transfer
 
 Source Server         : mysqlweb
 Source Server Version : 50719
